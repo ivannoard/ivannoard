@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying in Universitas Dian Nuswantoro<br>🌱 I’m currently learning NextJS and Backend Development<br>💬 Contact me if there something you wanna ask ivannovaa.24@gmail.com
+🔭 I’m currently studying in Universitas Dian Nuswantoro (finally graduated on August 2023)<br>🌱 I’m currently learning NextJS and Backend Development<br>💬 Contact me if there something you wanna ask ivannovaa.24@gmail.com
 
 
 ## 🌐 Socials:
